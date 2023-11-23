@@ -10,7 +10,7 @@ Each pattern is enclosed by a square or a circle. The program gives the users pr
 ## User's Manual
 There are three sections on this manual: display all the three patterns, display only one pattern, and display exactly two patterns. 
 
-#### Display all the three patterns
+### Display all the three patterns
 1.	Run the program.  
 2.	You will be asked to input the file. Type in “Data1.txt” without the quotation marks.  
 3.	Wait the program to run. It takes time.
@@ -25,7 +25,7 @@ Sample Output
 ![image](https://github.com/kenzhiiskandar/algorithmic_art_using_python/assets/120554498/7b285a8a-a43f-49d1-b39a-a17eb40f5b77)
 ![image](https://github.com/kenzhiiskandar/algorithmic_art_using_python/assets/120554498/774b09f5-8986-4379-a885-aa198c689faa)
 
-#### Display one pattern only
+### Display one pattern only
 1.	The program allows you to display exactly one pattern (refer to the pattern picture at the top).  
 2.	Run the program.  
 3.	You will be asked to input the file name. Type in “Data2.txt” without quotation marks.  
@@ -39,7 +39,7 @@ Sample Output
 ![image](https://github.com/kenzhiiskandar/algorithmic_art_using_python/assets/120554498/2e560ae3-8d92-4299-abc1-01a45c42fc21)
 ![image](https://github.com/kenzhiiskandar/algorithmic_art_using_python/assets/120554498/d7d55dea-964c-4256-9c6e-b11e31561c8d)
 
-#### Display Exactly Two Patterns
+### Display Exactly Two Patterns
 1.	Run the program.  
 2.	You will be asked to input the file name. Type in “Data3.txt” without quotation marks.  
 3.	Wait the program to run. It takes time.  
