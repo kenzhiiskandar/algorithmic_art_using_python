@@ -8,7 +8,11 @@ This program is part of a school project, aims to create an algorithmic pattern 
 Each pattern is enclosed by a square or a circle. The program gives the users preference to choose which pattern they want to display: all the three-patterns, one pattern only, or exactly two patterns. The program allows the user to choose their preference colors.
 
 ## User's Manual
-There are three sections on this manual: display all the three patterns, display only one pattern, and display exactly two patterns. 
+There are three sections on this manual: display all the three patterns, display only one pattern, and display exactly two patterns.  
+Install turtle's python library before proceeding
+   ```sh
+   pip3 install PythonTurtle
+   ```
 
 ### Display all the three patterns
 1.	Run the program.  
