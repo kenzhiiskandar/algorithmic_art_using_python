@@ -1,0 +1,66 @@
+black		#background color
+red		#circle color
+orange		#square color
+magenta	 	#Circle iteration (Pattern 1) color
+yellow 		#Crystal (Pattern 2) color
+aqua		#Nine sided polygon/Enneagon Pattern (Pattern 3) color
+-560 -350	#Circle iteration (Pattern 1) first coordinate
+-420 -350	#Crystal iteration (Pattern 2) first coordinate
+-280 -350	#Nine sided polygon (Pattern 3) first coordinate
+-140 -350	#Circle iteration (Pattern 1) 2nd position
+0 -350
+140 -350
+280 -350	#Circle iteration (Pattern 1) 3rd position
+420 -350
+560 -350
+700 -350	#Circle iteration (Pattern 1) 4th position
+-560 -210	
+-420 -210
+-280 -210
+-140 -210
+0 -210
+140 -210
+280 -210
+420 -210
+560 -210
+700 -210
+-560 -70
+-420 -70
+-280 -70
+-140 -70
+0 -70
+140 -70
+280 -70
+420 -70
+560 -70
+700 -70
+-560 70
+-420 70
+-280 70
+-140 70
+0 70
+140 70
+280 70
+420 70
+560 70
+700 70
+-560 210
+-420 210
+-280 210
+-140 210
+0 210
+140 210
+280 210
+420 210
+560 210
+700 210
+-560 350
+-420 350
+-280 350
+-140 350
+0 350
+140 350
+280 350
+420 350
+560 350
+700 350
